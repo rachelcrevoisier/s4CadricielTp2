@@ -1,0 +1,45 @@
+<?php
+// EN folder
+return [
+'register_user' => 'Register User',
+'name' => 'Name',
+'email' => 'Email',
+'address' => 'Address',
+'password' => 'Password',
+'sign_up' => 'Sign up',
+'hello' => 'Hello',
+'login' => 'Login',
+'home' => 'Home',
+'logout' => 'Logout',
+'city' => 'City',
+'phone' => 'Phone',
+'birthday' => 'Birthday',
+'passwordAgain' => 'Type the password again',
+
+'addArticle' => 'Add article',
+'addTitle' => 'Add title',
+'addText' => 'Add text',
+'addTitleFrench' => 'Add title french',
+'addTextFrench' => 'Add text french',
+'ListOfItems' => 'List of items',
+'title'=>'Title',
+'journalist'=> 'Journalist',
+'see' => 'See',
+'edit' => 'Edit',
+'delete' => 'Delete',
+'back' => 'Back',
+'author' => 'Author',
+'deleteArticle' => 'Are you sure you want to delete the article :',
+'close'=>'Close',
+'titleEnglish' => 'Title in english',
+'titleFrench' => 'Title in french',
+'articleEnglish' => 'Article in english',
+'articleFrench' => 'Article in french',
+'editArticle' => 'Edit an article',
+
+'ListOfDocs' => 'List of documents',
+'addDocs' => 'Add a document',
+'link' => 'Link',
+'NoDocFound' => 'No documents found'
+
+];
